@@ -7,7 +7,7 @@ NATARAJ=mysql-server
 echo "packages has been updated"
 sudo apt-get update
 echo #########################################
-
+echo $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 #to install mysql-client 
 echo "service has been installed $NATARJ"
 sudo apt-get install $NATARAJ
